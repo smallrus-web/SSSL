@@ -8,5 +8,8 @@
 3) Развернуть на одной из ВМ сервер Wazuh.
 ![Screenshot_2](https://github.com/user-attachments/assets/20b85713-b214-4b1b-983e-0cd4b3c59c9d)
 ![Screenshot_3](https://github.com/user-attachments/assets/38bcd57a-1527-4073-8802-903492fd57a5)
+4) Подключите агента используя документацию
+![Screenshot_4](https://github.com/user-attachments/assets/7ed1eeb9-007f-49d6-8803-5bbac743dfe6)
+![Screenshot_5](https://github.com/user-attachments/assets/9d33e0b0-54a4-48e5-806f-cd9cd5c31816)
 
 
