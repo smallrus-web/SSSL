@@ -21,6 +21,7 @@
 ![Screenshot_11](https://github.com/user-attachments/assets/035b0a07-1727-49c1-ae2a-403441a8a5f9)
 
 8) Совершим атаку
+
 ![Screenshot_13](https://github.com/user-attachments/assets/15709b95-2d8a-4ba7-bf0b-bc785219b838)
 ![Screenshot_15](https://github.com/user-attachments/assets/204e9b96-9bdc-4d8e-b291-9ac945c0ecdb)
 
