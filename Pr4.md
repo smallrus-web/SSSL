@@ -38,6 +38,19 @@
 ![image](https://github.com/user-attachments/assets/a967ee93-7ab0-4e41-b094-bb17f0d191a4)
 ### По этим данным мы можем сделать вывод что в этом датасете используется C2 через DNS , Имя хоста состоит из шестнадцатеричных символов а так же отсуствуют отдельные IP адресса 
 ### Загружаем датасет с третьей лабороторной
+![image](https://github.com/user-attachments/assets/f12d0acd-d359-4a26-857f-6e6a53c67735)
+![image](https://github.com/user-attachments/assets/f2992d8f-996f-4ab5-9e63-8a65ddf6da5e)
+### Переходим в раздел beacons web для анализа
+![image](https://github.com/user-attachments/assets/25ebc243-285e-47cc-8a7a-d80d1c73fc7c)
+### Видим большой показатель beaconscore и переходим в раздел long connection для анализа
+![image](https://github.com/user-attachments/assets/a8c62166-55f4-4bd6-b92f-a51ef7ce90be)
+![image](https://github.com/user-attachments/assets/d90db102-b9a8-4c1b-b7b9-20f93b8d7513)
+![image](https://github.com/user-attachments/assets/72baee85-59d7-4579-8b80-dcca287432e4)
+### Так же как и в первом датасете адресс с чрезмерно большим показателем beaconscore оказался нелегетимным
+
+
+
+
 
 
 
