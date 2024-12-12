@@ -11,5 +11,9 @@
 4) Подключите агента используя документацию
 ![Screenshot_4](https://github.com/user-attachments/assets/7ed1eeb9-007f-49d6-8803-5bbac743dfe6)
 ![Screenshot_5](https://github.com/user-attachments/assets/9d33e0b0-54a4-48e5-806f-cd9cd5c31816)
+5) Настройте выявление уязвимостей в соответствии с документацией
+![Настройка выявления уязвимостей](https://github.com/user-attachments/assets/3fb2f54b-399f-4f16-a5d1-158efdfcacd2)
+6) Настройте выявление скрытых процессов
+![Настройка выявления скрытых процессов](https://github.com/user-attachments/assets/1c6fd83b-e8d9-4ce0-b2d2-49124925051b)
 
 
