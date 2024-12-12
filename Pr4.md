@@ -8,5 +8,6 @@
 ![image](https://github.com/user-attachments/assets/f6b8a8f6-6f4e-40a5-941d-d1d68d3f208c)
 ### Выбираем датасет в AC-hunter
 ![image](https://github.com/user-attachments/assets/d3478996-5302-4e57-9b62-40c3d47e68bc)
+Первый адресс выглядит достаточно подозрительным из-за высокого показателя beaconscore
 ![image](https://github.com/user-attachments/assets/55d2faa4-e14a-4704-8762-bec1019cd280)
 
