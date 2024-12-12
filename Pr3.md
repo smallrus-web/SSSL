@@ -17,7 +17,10 @@
 ![Настройка выявления уязвимостей](https://github.com/user-attachments/assets/3fb2f54b-399f-4f16-a5d1-158efdfcacd2)
 6) Настройте выявление скрытых процессов
 ![Настройка выявления скрытых процессов](https://github.com/user-attachments/assets/1c6fd83b-e8d9-4ce0-b2d2-49124925051b)
-7) Совершим атаку
+![Screenshot_10](https://github.com/user-attachments/assets/6cf36c00-4d19-46b4-9b4a-b03601724b46)
+![Screenshot_11](https://github.com/user-attachments/assets/035b0a07-1727-49c1-ae2a-403441a8a5f9)
+
+8) Совершим атаку
 ![Screenshot_13](https://github.com/user-attachments/assets/15709b95-2d8a-4ba7-bf0b-bc785219b838)
 ![Screenshot_15](https://github.com/user-attachments/assets/204e9b96-9bdc-4d8e-b291-9ac945c0ecdb)
 
