@@ -17,3 +17,8 @@
 ![Screenshot_13](https://github.com/user-attachments/assets/8cba8ffa-2e34-41bd-8da6-5c3d9bfeaab8)
 ![Screenshot_9](https://github.com/user-attachments/assets/07e5439d-48a1-49e5-b649-44a969586b31)
 ![Screenshot_12](https://github.com/user-attachments/assets/694a6a08-fedf-420f-a875-85b391dfd887)
+## 5. Установка и настройка Loki с использованием Signoz
+![Screenshot_14](https://github.com/user-attachments/assets/e21594b9-c70d-45b7-9686-02862ce80d4b)
+![Screenshot_15](https://github.com/user-attachments/assets/ff2f8895-b15d-4ee6-9f89-32f7a6b629bc)
+![13](https://github.com/user-attachments/assets/0324421d-86bd-46b2-b9b0-4158cf2a5f5c)
+![14](https://github.com/user-attachments/assets/81a1b4ba-dc18-44da-88b1-484b6c6c9ba9)
