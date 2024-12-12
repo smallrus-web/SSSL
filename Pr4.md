@@ -32,6 +32,12 @@
 ### В конечном итоге можно сделать вывод что Соединение с 167.71.97.235 выглядят подозрительно тк как высокий показатель beacon score, не было обнаружено поля «хост» в HTTP-заголовке, длинная запутанная строка URI и так же имеются жалобы на вредоносность данного ресурса.
 ### Загружаем датасет со второй лабороторной
 ![image](https://github.com/user-attachments/assets/ed7736e4-85c6-47ad-b523-9953f2e32f34)
+![image](https://github.com/user-attachments/assets/ec886708-19f0-4d7d-bf70-62c7b4d5639f)
+### Переходим во вкладку DNS 
+![image](https://github.com/user-attachments/assets/e4001dee-9f71-4ad7-ba84-bbf0defc1c3d)
+![image](https://github.com/user-attachments/assets/a967ee93-7ab0-4e41-b094-bb17f0d191a4)
+
+
 
 
 
