@@ -6,3 +6,5 @@
 ![image](https://github.com/user-attachments/assets/886c810e-fbbb-4846-86fc-0eff166d1fde)
 ![image](https://github.com/user-attachments/assets/da11f47f-f6d8-4939-a35f-5b34f5ffa2f1)
 ## Проверяем работу агента Wazuh
+![image](https://github.com/user-attachments/assets/b19e8c8e-bf25-4632-ae1c-e11e8307effb)
+## Устанавливаем suricata на ВМ агента 
