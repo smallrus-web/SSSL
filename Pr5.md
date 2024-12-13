@@ -1,2 +1,2 @@
 ## Устанавливаем Wazuh
-![Screenshot_1](https://github.com/user-attachments/assets/336027c7-83ca-4664-a0eb-b0530d77291b)
+![image](https://github.com/user-attachments/assets/b1110c74-537c-434c-a51c-fce30dca2e79)
