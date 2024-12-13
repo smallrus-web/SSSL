@@ -8,3 +8,5 @@
 ## Проверяем работу агента Wazuh
 ![image](https://github.com/user-attachments/assets/b19e8c8e-bf25-4632-ae1c-e11e8307effb)
 ## Устанавливаем suricata на ВМ агента 
+![image](https://github.com/user-attachments/assets/c8156077-2b7e-4272-819e-fe989c90391b)
+## Скачиваем правила suricata 
